@@ -47416,16 +47416,7 @@ width = 317;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = NeonDerthawROB;
-},
-{
-name = postscriptFontName;
-value = NeonDerthawROB;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "6B4F01CB-8044-4D82-912B-2C5A8D883AAC" = 1;
 };
