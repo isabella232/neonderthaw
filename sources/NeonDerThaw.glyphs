@@ -1,7 +1,8 @@
 {
 .appVersion = "1352";
 DisplayStrings = (
-abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz,
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
 copyright = "Copyright 2014-2021 The Neonderthaw Project Authors (https://github.com/googlefonts/neonderthaw)";
 customParameters = (
@@ -108,14 +109,14 @@ name = liga;
 fontMaster = (
 {
 alignmentZones = (
-"{850, -20}",
-"{715, 10}",
-"{350, -15}",
-"{0, -14}",
-"{-310, 25}"
+"{750, 15}",
+"{625, 15}",
+"{370, 15}",
+"{0, -15}",
+"{-300, -15}"
 );
-ascender = 850;
-capHeight = 715;
+ascender = 625;
+capHeight = 750;
 customParameters = (
 {
 name = typoAscender;
@@ -162,7 +163,7 @@ name = underlineThickness;
 value = 20;
 }
 );
-descender = -310;
+descender = -300;
 guideLines = (
 {
 locked = 1;
@@ -181,7 +182,7 @@ locked = 1;
 position = "{107, -211}";
 },
 {
-position = "{300, 511}";
+position = "{300, 750}";
 }
 );
 id = "6B4F01CB-8044-4D82-912B-2C5A8D883AAC";
@@ -23128,7 +23129,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2021-11-10 00:37:32 +0000";
+lastChange = "2021-11-10 00:39:37 +0000";
 layers = (
 {
 background = {
@@ -23292,6 +23293,11 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+position = "{438, 370}";
+}
+);
 layerId = "6B4F01CB-8044-4D82-912B-2C5A8D883AAC";
 paths = (
 {
