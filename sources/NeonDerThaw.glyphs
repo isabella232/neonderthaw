@@ -8,7 +8,7 @@ DisplayStrings = (
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN\012V/Acircumflexdotbelow Y/space CH/Adotbelow Y/space/Dcroat/Uhornacute T/space/Ohornacute T/space TH/Uhorn/Ohorn NG/space T/Acircumflexacute Y/space",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120129793475076947989/nbspace \012/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012",
-"nôn.nno,nonon:nono;nooon/ellipsis nono!nono¡noon?nonoono¿nono·non/bullet *#///backslash/periodcentered.loclCAT \012(nono){nonon}[nono]-­/endash/emdash/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft no/quotedblright no/quoteleft no/quoteright [nono\012«no»/guilsinglleft non/guilsinglright \"nonA'nonn/leftanglebracket-math nonon/rightanglebracket-math \012nonocm@non\012nono@ong\012NO@NO"
+"nôn.nno,nonon:nono;nooon/ellipsis nono!nono¡noon?nonoono¿nono·non/bullet *#///backslash/periodcentered.loclCAT \012(nono){nonon}[nono]-­/endash/emdash/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft no/quotedblright no/quoteleft no/quoteright [nono\012«no»/guilsinglleft non/guilsinglright \"nonA'nonn/leftanglebracket-math nonon/rightanglebracket-math \012nonocm@non\012nono@ong\012NO@"
 );
 classes = (
 {
@@ -17370,7 +17370,7 @@ unicode = 0168;
 },
 {
 glyphname = V;
-lastChange = "2021-11-15 12:52:57 +0000";
+lastChange = "2021-11-15 13:42:41 +0000";
 layers = (
 {
 background = {
@@ -43834,7 +43834,7 @@ unicode = 00BE;
 },
 {
 glyphname = period;
-lastChange = "2021-11-15 13:32:06 +0000";
+lastChange = "2021-11-15 13:43:24 +0000";
 layers = (
 {
 background = {
@@ -43928,7 +43928,7 @@ unicode = 002E;
 },
 {
 glyphname = comma;
-lastChange = "2021-11-15 13:32:28 +0000";
+lastChange = "2021-11-15 13:43:26 +0000";
 layers = (
 {
 background = {
@@ -44015,7 +44015,7 @@ unicode = 002C;
 },
 {
 glyphname = colon;
-lastChange = "2021-11-15 13:32:41 +0000";
+lastChange = "2021-11-15 13:43:01 +0000";
 layers = (
 {
 background = {
@@ -44185,7 +44185,7 @@ unicode = 003A;
 },
 {
 glyphname = semicolon;
-lastChange = "2021-11-15 13:32:55 +0000";
+lastChange = "2021-11-15 13:43:00 +0000";
 layers = (
 {
 background = {
@@ -82586,29 +82586,58 @@ kerning = {
 "@MMK_R_one" = -30;
 };
 D = {
+comma = -60;
+period = -60;
 z = -60;
 zcaron = -60;
 };
 H = {
 "@MMK_R_zero" = 30;
 };
+O = {
+comma = -40;
+period = -50;
+};
 P = {
 a = -50;
 e = -60;
 h = -62;
 };
+T = {
+colon = -40;
+comma = -40;
+period = -50;
+semicolon = -40;
+};
 V = {
 a = -40;
+colon = -40;
+comma = -40;
 e = -40;
 i = -50;
 o = -50;
+period = -40;
+semicolon = -50;
+};
+W = {
+colon = -20;
+comma = -40;
+period = -40;
+semicolon = -30;
 };
 Y = {
 a = -50;
+colon = -90;
+comma = -70;
 e = -30;
 i = -40;
 o = -40;
+period = -100;
+semicolon = -70;
 u = -40;
+};
+exclamdown = {
+V = -70;
 };
 f = {
 p = 0;
