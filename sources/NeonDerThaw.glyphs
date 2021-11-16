@@ -11,7 +11,8 @@ DisplayStrings = (
 "nôn.nno,nonon:nono;nooon/ellipsis nono!nono¡noon?nonoono¿nono·non/bullet *#///backslash/periodcentered.loclCAT \012(nono){nonon}[nono]-­/endash/emdash/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft no/quotedblright no/quoteleft no/quoteright [nono\012«no»/guilsinglleft non/guilsinglright \"nonA'nonn/leftanglebracket-math nonon/rightanglebracket-math \012nonocm@non\012nono@ong\012NO@",
 "OO/circumflexcomb.case/caroncomb.case/Ocaron",
 "Ó/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron",
-"oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oogonek ø/oslashacute õ/otildemacron"
+"oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oogonek ø/oslashacute õ/otildemacron",
+"/circumflexcomb ô"
 );
 classes = (
 {
@@ -77832,7 +77833,7 @@ width = 108;
 {
 color = 3;
 glyphname = circumflexcomb;
-lastChange = "2021-11-16 14:31:14 +0000";
+lastChange = "2021-11-16 14:55:58 +0000";
 layers = (
 {
 anchors = (
@@ -77960,25 +77961,25 @@ paths = (
 closed = 1;
 nodes = (
 "242 424 OFFCURVE",
-"255 434 OFFCURVE",
-"257 447 CURVE SMOOTH",
-"258 453 OFFCURVE",
-"257 459 OFFCURVE",
-"253 465 CURVE SMOOTH",
-"220 518 LINE",
-"193 561 LINE SMOOTH",
-"189 567 OFFCURVE",
+"253 434 OFFCURVE",
+"255 447 CURVE SMOOTH",
+"256 453 OFFCURVE",
+"255 459 OFFCURVE",
+"251 465 CURVE SMOOTH",
+"218 518 LINE",
+"191 561 LINE SMOOTH",
+"187 567 OFFCURVE",
 "184 571 OFFCURVE",
 "177 571 CURVE SMOOTH",
 "170 571 OFFCURVE",
-"160 567 OFFCURVE",
-"149 560 CURVE SMOOTH",
-"8 465 LINE SMOOTH",
-"-3 458 OFFCURVE",
-"-9 451 OFFCURVE",
-"-10 445 CURVE SMOOTH",
-"-12 434 OFFCURVE",
-"0 427 OFFCURVE",
+"153 565 OFFCURVE",
+"147 561 CURVE SMOOTH",
+"10 466 LINE SMOOTH",
+"3 461 OFFCURVE",
+"-4 452 OFFCURVE",
+"-4 445 CURVE SMOOTH",
+"-4 437 OFFCURVE",
+"4 427 OFFCURVE",
 "23 427 CURVE SMOOTH",
 "36 427 OFFCURVE",
 "50 430 OFFCURVE",
@@ -78001,7 +78002,7 @@ nodes = (
 "49 450 OFFCURVE",
 "42 447 OFFCURVE",
 "27 447 CURVE SMOOTH",
-"10 447 OFFCURVE",
+"14 447 OFFCURVE",
 "32 459 OFFCURVE",
 "39 464 CURVE SMOOTH",
 "47 469 OFFCURVE",
