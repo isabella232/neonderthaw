@@ -15,7 +15,8 @@ DisplayStrings = (
 noHot,
 "Ó/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute",
 "uú/ubreve û/udblgrave ü/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/hookabovecomb/uhornhookabove/uhorn/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/uogonek/uring",
-"oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove"
+"oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove",
+"/f_f/f_f_i/f_f_l/fi/fl"
 );
 classes = (
 {
@@ -38392,9 +38393,15 @@ unicode = 017C;
 },
 {
 glyphname = f_f;
-lastChange = "2021-11-15 14:23:52 +0000";
+lastChange = "2021-11-17 03:59:04 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{415, 0}";
+}
+);
 background = {
 components = (
 {
@@ -38424,9 +38431,19 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2021-11-15 14:23:52 +0000";
+lastChange = "2021-11-17 03:59:08 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{379.667, 0}";
+},
+{
+name = caret_2;
+position = "{759.333, 0}";
+}
+);
 background = {
 components = (
 {
@@ -38464,9 +38481,19 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-11-15 14:23:52 +0000";
+lastChange = "2021-11-17 03:59:11 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{381, 0}";
+},
+{
+name = caret_2;
+position = "{762, 0}";
+}
+);
 background = {
 components = (
 {
@@ -38504,9 +38531,15 @@ rightMetricsKey = l;
 },
 {
 glyphname = fi;
-lastChange = "2021-11-10 00:37:07 +0000";
+lastChange = "2021-11-17 03:59:15 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{362, 0}";
+}
+);
 background = {
 components = (
 {
@@ -38537,9 +38570,15 @@ unicode = FB01;
 },
 {
 glyphname = fl;
-lastChange = "2021-11-10 00:37:07 +0000";
+lastChange = "2021-11-17 03:59:17 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{364, 0}";
+}
+);
 background = {
 components = (
 {
