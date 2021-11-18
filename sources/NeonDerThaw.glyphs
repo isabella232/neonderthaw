@@ -12,7 +12,7 @@ DisplayStrings = (
 "OO/circumflexcomb.case/caroncomb.case/Ocaron",
 "Ó/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron",
 "oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oogonek ø/oslashacute õ/otildemacron",
-abcdefghijklmnopqrstuvwxyz,
+noHot,
 "Ó/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute",
 "uú/ubreve û/udblgrave ü/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/hookabovecomb/uhornhookabove/uhorn/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/uogonek/uring",
 "oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove",
@@ -251,7 +251,7 @@ xHeight = 350;
 glyphs = (
 {
 glyphname = .notdef;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -376,7 +376,7 @@ unicode = 000D;
 },
 {
 glyphname = NULL;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 layerId = "6B4F01CB-8044-4D82-912B-2C5A8D883AAC";
@@ -26190,7 +26190,7 @@ unicode = 00EF;
 },
 {
 glyphname = idotaccent;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -38393,7 +38393,7 @@ unicode = 017C;
 },
 {
 glyphname = f_f;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-17 03:59:04 +0000";
 layers = (
 {
 anchors = (
@@ -38431,7 +38431,7 @@ rightMetricsKey = f;
 },
 {
 glyphname = f_f_i;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-17 03:59:08 +0000";
 layers = (
 {
 anchors = (
@@ -38481,7 +38481,7 @@ rightMetricsKey = i;
 },
 {
 glyphname = f_f_l;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-17 03:59:11 +0000";
 layers = (
 {
 anchors = (
@@ -41637,7 +41637,7 @@ unicode = 0039;
 },
 {
 glyphname = zero.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-16 14:49:12 +0000";
 layers = (
 {
 background = {
@@ -41743,7 +41743,7 @@ rightMetricsKey = zero;
 },
 {
 glyphname = one.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -41862,7 +41862,7 @@ rightMetricsKey = one;
 },
 {
 glyphname = two.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -41988,7 +41988,7 @@ rightMetricsKey = two;
 },
 {
 glyphname = three.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -42099,7 +42099,7 @@ rightMetricsKey = three;
 },
 {
 glyphname = four.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -42241,7 +42241,7 @@ rightMetricsKey = four;
 },
 {
 glyphname = five.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -42362,7 +42362,7 @@ rightMetricsKey = five;
 },
 {
 glyphname = six.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-16 14:49:03 +0000";
 layers = (
 {
 background = {
@@ -42436,7 +42436,7 @@ rightMetricsKey = six;
 },
 {
 glyphname = seven.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -42536,7 +42536,7 @@ rightMetricsKey = seven;
 },
 {
 glyphname = eight.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -42641,7 +42641,7 @@ rightMetricsKey = eight;
 },
 {
 glyphname = nine.lf;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-16 14:31:53 +0000";
 layers = (
 {
 background = {
@@ -47144,7 +47144,7 @@ unicode = 005C;
 },
 {
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:26:27 +0000";
 layers = (
 {
 background = {
@@ -47166,7 +47166,7 @@ width = 200;
 },
 {
 glyphname = periodcentered.loclCAT;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -77789,7 +77789,7 @@ unicode = 030B;
 {
 color = 3;
 glyphname = caroncomb.alt;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 anchors = (
@@ -80130,7 +80130,7 @@ unicode = 02DB;
 {
 color = 3;
 glyphname = dieresiscomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:02:41 +0000";
 layers = (
 {
 anchors = (
@@ -80312,7 +80312,7 @@ width = 209;
 {
 color = 3;
 glyphname = dotaccentcomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:02:51 +0000";
 layers = (
 {
 anchors = (
@@ -80415,7 +80415,7 @@ width = 93;
 {
 color = 3;
 glyphname = gravecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:22:59 +0000";
 layers = (
 {
 anchors = (
@@ -80566,7 +80566,7 @@ width = 156;
 {
 color = 3;
 glyphname = acutecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:22:59 +0000";
 layers = (
 {
 anchors = (
@@ -80722,7 +80722,7 @@ width = 207;
 {
 color = 3;
 glyphname = hungarumlautcomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:03:13 +0000";
 layers = (
 {
 anchors = (
@@ -80863,7 +80863,7 @@ width = 207;
 {
 color = 3;
 glyphname = caroncomb.alt.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:22:27 +0000";
 layers = (
 {
 anchors = (
@@ -80955,7 +80955,7 @@ width = 108;
 {
 color = 3;
 glyphname = circumflexcomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-16 14:33:18 +0000";
 layers = (
 {
 anchors = (
@@ -81178,7 +81178,7 @@ width = 267;
 {
 color = 3;
 glyphname = caroncomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-16 14:58:01 +0000";
 layers = (
 {
 anchors = (
@@ -81280,7 +81280,7 @@ width = 267;
 {
 color = 3;
 glyphname = brevecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:03:58 +0000";
 layers = (
 {
 anchors = (
@@ -81451,7 +81451,7 @@ width = 263;
 {
 color = 3;
 glyphname = ringcomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:04:19 +0000";
 layers = (
 {
 anchors = (
@@ -81580,7 +81580,7 @@ width = 158;
 {
 color = 3;
 glyphname = tildecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:05:57 +0000";
 layers = (
 {
 anchors = (
@@ -81789,7 +81789,7 @@ width = 329;
 {
 color = 3;
 glyphname = macroncomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:22:59 +0000";
 layers = (
 {
 anchors = (
@@ -81919,7 +81919,7 @@ width = 294;
 {
 color = 3;
 glyphname = hookabovecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:22:59 +0000";
 layers = (
 {
 anchors = (
@@ -82094,7 +82094,7 @@ width = 158;
 {
 color = 3;
 glyphname = dblgravecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:04:54 +0000";
 layers = (
 {
 anchors = (
@@ -82137,7 +82137,7 @@ width = 263;
 {
 color = 3;
 glyphname = breveinvertedcomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:06:12 +0000";
 layers = (
 {
 anchors = (
@@ -82172,7 +82172,7 @@ width = 243;
 {
 color = 3;
 glyphname = commaturnedabovecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:06:35 +0000";
 layers = (
 {
 anchors = (
@@ -82207,7 +82207,7 @@ width = 200;
 {
 color = 3;
 glyphname = horncomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:22:27 +0000";
 layers = (
 {
 anchors = (
@@ -82334,7 +82334,7 @@ width = 159;
 {
 color = 3;
 glyphname = brevecomb_acutecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82365,7 +82365,7 @@ width = 243;
 {
 color = 3;
 glyphname = brevecomb_gravecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82397,7 +82397,7 @@ width = 243;
 {
 color = 3;
 glyphname = brevecomb_hookabovecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-17 03:33:59 +0000";
 layers = (
 {
 background = {
@@ -82428,7 +82428,7 @@ width = 243;
 {
 color = 3;
 glyphname = brevecomb_tildecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82459,7 +82459,7 @@ width = 243;
 {
 color = 3;
 glyphname = circumflexcomb_acutecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82490,7 +82490,7 @@ width = 267;
 {
 color = 3;
 glyphname = circumflexcomb_gravecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82521,7 +82521,7 @@ width = 267;
 {
 color = 3;
 glyphname = circumflexcomb_hookabovecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82552,7 +82552,7 @@ width = 267;
 {
 color = 3;
 glyphname = circumflexcomb_tildecomb;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 14:23:52 +0000";
 layers = (
 {
 background = {
@@ -82583,7 +82583,7 @@ width = 267;
 {
 color = 3;
 glyphname = brevecomb_acutecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:04 +0000";
 layers = (
 {
 background = {
@@ -82614,7 +82614,7 @@ width = 263;
 {
 color = 3;
 glyphname = brevecomb_gravecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:04 +0000";
 layers = (
 {
 background = {
@@ -82646,7 +82646,7 @@ width = 263;
 {
 color = 3;
 glyphname = brevecomb_hookabovecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:04 +0000";
 layers = (
 {
 background = {
@@ -82677,7 +82677,7 @@ width = 263;
 {
 color = 3;
 glyphname = brevecomb_tildecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:04 +0000";
 layers = (
 {
 background = {
@@ -82708,7 +82708,7 @@ width = 263;
 {
 color = 3;
 glyphname = circumflexcomb_acutecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:04 +0000";
 layers = (
 {
 background = {
@@ -82739,7 +82739,7 @@ width = 267;
 {
 color = 3;
 glyphname = circumflexcomb_gravecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:20 +0000";
 layers = (
 {
 background = {
@@ -82771,7 +82771,7 @@ width = 267;
 {
 color = 3;
 glyphname = circumflexcomb_hookabovecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:16 +0000";
 layers = (
 {
 background = {
@@ -82803,7 +82803,7 @@ width = 267;
 {
 color = 3;
 glyphname = circumflexcomb_tildecomb.case;
-lastChange = "2021-11-17 04:31:45 +0000";
+lastChange = "2021-11-15 12:40:12 +0000";
 layers = (
 {
 background = {
